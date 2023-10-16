@@ -1,4 +1,3 @@
-# historical-timeline-of-sp500
 # S&P 500 Component History Builder
 
 This repository showcases a Python-based solution designed to build a comprehensive historical view of the S&P 500 components. The script captures both the current constituents of the S&P 500 and its historical changes, sourced from Wikipedia and other datasets.
