@@ -23,6 +23,6 @@ This repository showcases a Python-based solution designed to build a comprehens
 
 ## Note to Viewers
 
-This repository and its code are intended purely as a showcase of the author's capabilities in data processing and manipulation in the finance domain. It is not designed for direct replication or production use. The primary goal is to demonstrate the approach and methods used to achieve the final result rather than to serve as a tool or library for external use.
+This README is intended to provide a brief overview of the project's design and capabilities. The project is not meant for direct replication or use by others but rather as a showcase of my work in this domain.
 
 ---
